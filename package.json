@@ -1,0 +1,16 @@
+{
+    "name": "com.gulievstudio.collider_importer",
+    "version": "1.0.1",
+    "displayName": "Automatic Collider Generation",
+    "unity": "2019.1",
+    "documentationUrl": "https://github.com/dguliev-github/AutomaticColliderGeneration",
+   "keywords": [
+      "Editor",
+      "Importer"
+    ],
+    "author": {
+      "name": "Damir Guliev",
+      "url": "https://www.artstation.com/dguliev"
+    }
+}
+  
