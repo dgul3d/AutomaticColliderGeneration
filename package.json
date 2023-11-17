@@ -4,6 +4,7 @@
     "displayName": "Automatic Collider Generation",
     "unity": "2019.1",
     "documentationUrl": "https://github.com/dguliev-github/AutomaticColliderGeneration",
+    "changelogUrl": "https://github.com/dguliev-github/AutomaticColliderGeneration/master/CHANGELOG.md",
    "keywords": [
       "Editor",
       "Importer"
