@@ -4,7 +4,8 @@
     "displayName": "Automatic Collider Generation",
     "unity": "2019.1",
     "documentationUrl": "https://github.com/dguliev-github/AutomaticColliderGeneration",
-    "changelogUrl": "https://github.com/dguliev-github/AutomaticColliderGeneration/master/CHANGELOG.md",
+    "changelogUrl": "https://raw.githubusercontent.com/dguliev-github/AutomaticColliderGeneration/master/CHANGELOG.md",
+    "license": "https://raw.githubusercontent.com/dguliev-github/AutomaticColliderGeneration/master/LICENSE",
    "keywords": [
       "Editor",
       "Importer"
@@ -17,7 +18,7 @@
       {
           "displayName": "Automatic Collider Generation Samples",
           "description": "Contains sample .fbx with colliders and a scene",
-          "path": "Samples/Automatic Collider Generation"
+          "path": "Samples~/"
       }
     ]
 }
