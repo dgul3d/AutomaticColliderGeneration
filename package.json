@@ -11,6 +11,13 @@
     "author": {
       "name": "Damir Guliev",
       "url": "https://www.artstation.com/dguliev"
-    }
+    },
+    "samples": [
+      {
+          "displayName": "Automatic Collider Generation Samples",
+          "description": "Contains sample .fbx with colliders and a scene",
+          "path": "Samples/Automatic Collider Generation"
+      }
+    ]
 }
   
