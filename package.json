@@ -5,7 +5,7 @@
     "unity": "2019.1",
     "documentationUrl": "https://github.com/dguliev-github/AutomaticColliderGeneration",
     "changelogUrl": "https://raw.githubusercontent.com/dguliev-github/AutomaticColliderGeneration/master/CHANGELOG.md",
-    "license": "https://raw.githubusercontent.com/dguliev-github/AutomaticColliderGeneration/master/LICENSE",
+    "license": "https://github.com/dguliev-github/AutomaticColliderGeneration/blob/master/LICENSE",
    "keywords": [
       "Editor",
       "Importer"
