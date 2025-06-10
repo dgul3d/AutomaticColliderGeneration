@@ -1,6 +1,10 @@
 
 # Change Log
- 
+## [1.0.2] - 2025-06-10
+
+### Fixed
+- old repo name in the documentation links
+
 ## [1.0.1] - 2023-11-17
 
 ### Changed
